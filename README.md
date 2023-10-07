@@ -24,7 +24,4 @@ Bibliotecas
 > Python 3.10
 > 
 
-## Autores:
 
-> Exemplo
->
